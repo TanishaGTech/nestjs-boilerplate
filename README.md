@@ -30,12 +30,12 @@ This applications uses JSON Web Token (JWT) to handle authentication. The token 
 
 This example repo uses the NestJS swagger module for API documentation. [NestJS Swagger](https://github.com/nestjs/swagger) - [www.swagger.io](https://swagger.io/)   
 
-# 1.Redis #
-# 2.Swagger # 
-# 3.Jwt authorization and Authentication # 
-# 4.External api calls # 
-# 5.Multer - for file/image uploading # 
-# 6.Routing # 
-# 7.Route gaurds # 
-# 8.dto # 
-# 9.entity # 
+## 1.Redis ##
+## 2.Swagger ## 
+## 3.Jwt authorization and Authentication ## 
+## 4.External api calls ## 
+## 5.Multer - for file/image uploading ## 
+## 6.Routing ## 
+## 7.Route gaurds ## 
+## 8.Dto ## 
+## 9.Entity ## 
